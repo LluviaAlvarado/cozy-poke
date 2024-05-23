@@ -1,0 +1,4 @@
+.searchInput {
+	background: linear-gradient(to bottom, transparent, var(--tertiary))
+		transparent;
+}

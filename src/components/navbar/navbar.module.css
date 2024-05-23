@@ -1,0 +1,13 @@
+.navbar {
+	background: linear-gradient(
+			to bottom,
+			var(--tertiary) 15%,
+			var(--secondary) 70%,
+			var(--background)
+		)
+		var(--tertiary);
+}
+
+.navlink:hover {
+	background-color: var(--secondary);
+}
